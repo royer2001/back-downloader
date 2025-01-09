@@ -145,3 +145,5 @@ ALLOWED_HOSTS = [
     'localhost',
     '*'
 ]
+
+SECURE_SSL_REDIRECT = True
