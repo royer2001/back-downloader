@@ -1,1 +1,1 @@
-web: gunicorn downloaderback.wsgi
+web: gunicorn tu_proyecto.wsgi --log-file -
