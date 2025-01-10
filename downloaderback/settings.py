@@ -146,5 +146,3 @@ ALLOWED_HOSTS = [
     'https://front-downloader.vercel.app/',
     '*',
 ]
-
-SECURE_SSL_REDIRECT = True
